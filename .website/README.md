@@ -1,4 +1,8 @@
 ---
+genres:
+  - tower-defense
+  - strategy
+  - party
 post: https://gabor.heja.hu/blog/2018/04/25/untitled13
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
